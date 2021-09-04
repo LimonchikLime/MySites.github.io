@@ -1,0 +1,22 @@
+.start {
+    background-color: rgb(178, 231, 31);
+    color: rgb(219, 158, 26);
+    width: 500px;
+    height: 100px;
+    text-align: center;
+    margin-left: 500px;
+    padding-top: 10px;
+}
+
+img {
+    width: 600px;
+    height: 500px;
+}
+
+body {
+    background-color: rgb(66, 233, 155);
+}
+
+.mein_cun {
+    text-align: center;
+}
